@@ -6,7 +6,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python (≈ 99%) :contentReference[oaicite:1]{index=1}, Shell  
+- **Languages:** Python (≈ 99%), Shell  
 - **Frameworks & Libraries:** Django, Telebot, PIL, Pydub, SpeechRecognition, dotenv  
 - **Tools & Databases:** SQLite, CSV processing, virtual environments, Git
 
