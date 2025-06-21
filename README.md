@@ -18,18 +18,18 @@
 A Python-powered Telegram bot (`telegram_bot-telebot-`) that:
 - Supports text, voice-to-text, and image processing  
 - Implements commands: `/help`, `/random`, `/add`, `/show`  
-- Applies image filters with PIL and converts voice messages using SpeechRecognition & Pydub :(https://github.com/cenme37/telegram_bot-telebot-.git)]
+- Applies image filters with PIL and converts voice messages using SpeechRecognition & Pydub : https://github.com/cenme37/telegram_bot-telebot-.git
 
 ### 2. **Tree Menu Manager**  
 A Django (v4.2.9 + Python 3.7) web app (`tree_menu`) that:
 - Enables creation & display of hierarchical menus  
 - Integrates CSV import/export via custom management command  
-- Uses SQLite as the backend :(https://github.com/cenme37/tree_menu.git)
+- Uses SQLite as the backend : https://github.com/cenme37/tree_menu.git
 
 ### 3. **Algorithmic Projects (Calc & Git).**  
 Repositories forked from Praktikum such as:
 - `calc_and_win`, `character_creation_module`, `backend_test_homework`, and `git-fork-case`  
-- Demonstrate proficiency in Python scripting and foundational algorithmic patterns :(https://github.com/cenme37/calc_and_win.git)
+- Demonstrate proficiency in Python scripting and foundational algorithmic patterns: https://github.com/cenme37/calc_and_win.git
 
 ---
 
